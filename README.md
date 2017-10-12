@@ -1,6 +1,2 @@
 # hello-world
-int main(void){
-  return 0;
-}
-\nNew change
-\nthird change
+This is my first project which is a Tribute page. I used HTML, CSS and bootstrap to make this web-page.
