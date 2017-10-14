@@ -1,0 +1,14 @@
+body{
+  margin:20px; 
+  padding:10px;
+  background-color: #D0D3D4;
+  color: #000000;
+}
+
+h1{
+  font-size: 450%;
+}
+
+.font{
+  font-size:150%;
+}
